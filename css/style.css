@@ -1,0 +1,22 @@
+#textarea{
+    width:"100vh"
+}
+
+.typing_section{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content: center;
+    
+}
+ #btn{
+    width:150px;
+    height: 75px;
+    padding:5px;
+    font-size:larger;
+    font-Weight:bold;
+    border-radius: 10px;
+    background-color: orangered;
+    border:none;
+    box-shadow: 0 0 10px rgba(146, 142, 142, 0.5); ;
+ }
